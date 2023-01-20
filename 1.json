@@ -55,7 +55,7 @@
 "show_ads":"1",
 "downloader_package_name":"com.one.downloader",
 "downloader_name":"One Downloader",
-"enable_install_player":false,
+"enable_install_player":true,
 "enable_download_adm":true,
 "title_player":"VIPLyer Video Player",
 "description_player":"Please install a video player to watch",
