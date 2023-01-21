@@ -42,7 +42,7 @@
 "link_download_player_backup":"https://androidone.tech/uploads/titanplayer1.1.6x.apk",
 "package_name_player":"com.polygon.videoplayer",
 "force_download_player_apk_tv":true,
-"force_download_player_apk_phone":false,
+"force_download_player_apk_phone":true,
 "oneplayer_version_build":"22",
 "enable_install_player_new":true,
 "pkg_player_new":"com.ae.video.bplayer",
