@@ -6,7 +6,7 @@
 "survey_link": "",  
 "left_menu_image":"https://pbs.twimg.com/profile_banners/1431692734058926082/1630391026/1500x500",  
 "lite_mode":false,
-"content_not_support_audio":"This movie has audio which is not  supported by VancedFlix, please install VLC bol player to play audio.",  
+"content_not_support_audio":"This movie has audio which is not supported by VancedFlix, please install VLC bol player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":true,  
@@ -15,13 +15,13 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(VancedFlix) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 1.4.2</br>
+<br>- Version: 1.1.2</br>
 <br>- Size: 18.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv  shows.</br>
 <br>- Add links.</br>",  
-"update_build":"42",  
+"update_build":"22",  
 "update_version":"2.4.2",  
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
