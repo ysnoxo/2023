@@ -43,7 +43,7 @@
 "package_not_support_audio":"org.videolan.vlc",
 "content_not_support_audio":"This movie contains audio which is not supported by TeaTV,please install VLC player to play audio.",
 "link_not_audio":"https:\/\/archive.org\/download\/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com\/vlc317.apk",
-"image_drawer":"https:\/\/i.imgur.com\/3Uk3pxZ.png",
+"image_drawer":"https://pbs.twimg.com/profile_banners/1431692734058926082/1630391026/1500x500",
 "http_config":"https",
 "pkg_uninstall":"teatv.videoplayer.moviesguide",
 "pkg_uninstall_content":"Please uninstall older version!",
